@@ -210,3 +210,11 @@ a {
 .ten {
     background-color:dodgerblue;
 }
+
+a:hover {
+    transform: rotate(20deg);
+}
+
+.one:hover, .two:hover, .three:hover, .four:hover, .five:hover, .six:hover,.seven:hover, .eight:hover,.nine:hover, .ten:hover {
+    transform: scale(1.25) ;
+}
