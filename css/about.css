@@ -187,7 +187,9 @@ a {
 }
 
 .strategy, .how, .places, .collab {
-    margin: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-top: 2%;
     padding-bottom: 2%;
     border-bottom: 2px dotted black;
 }
@@ -205,4 +207,9 @@ a {
 
 h2 {
     padding-top: 2%;
+}
+
+.contact {
+    padding: 2%;
+    margin-bottom: 2%;
 }
